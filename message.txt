@@ -1,4 +1,0 @@
-This is a message text file 
-now i am adding a new line
-this is the third linr that i am adding
-now i am adding the fourth line
